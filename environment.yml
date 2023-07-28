@@ -1,0 +1,7 @@
+name: python39-poetry-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - poetry
+  - python=3.9.17
