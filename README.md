@@ -18,5 +18,5 @@ To run program using docker
     Using Docker Compose
 
     ```
-    docker compose -f docker-compose.yml up -d --build
+    docker compose -f docker-compose.yml up -d
     ``` 
